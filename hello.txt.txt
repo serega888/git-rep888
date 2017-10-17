@@ -3,3 +3,4 @@ print("hello";);
 print("Hello world";);
 print("Hello my dear friend";);
 print("Glad to see you";);
+pritn("What's up");
