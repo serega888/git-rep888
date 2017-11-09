@@ -1,2 +1,2 @@
 This is the Hello World example from the git tutorial
-(changed in original and pushed to shared) Privet Sergey
+(changed in original and pushed to shared) Privet Sergey Demo
